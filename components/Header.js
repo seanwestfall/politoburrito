@@ -39,6 +39,7 @@ export default function Header() {
           id="example-navbar-danger"
         >
         <nav class="md:ml-auto flex flex-wrap items-center text-base justify-center font-semibold pl-7">
+          <a class="mr-6 hover:text-white" href="https://billboards.politoburrito.com/">Billboards</a>
           <a class="mr-6 hover:text-white" href="/">Home</a>
           <a class="mr-6 hover:text-white" href="/contact">Contact</a>
           <a class="mr-6 hover:text-white" href="/404">404</a>

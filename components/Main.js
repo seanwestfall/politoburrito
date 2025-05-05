@@ -7,7 +7,7 @@ export default function Main() {
       <div class="container px-5 pt-32 mx-auto lg:px-4 lg:py-4">
         <div class="flex flex-col w-full mb-2 text-left md:text-center ">
           <h1 class="mb-2 text-6xl font-bold tracking-tighter text-white lg:text-8xl md:text-7xl">
-            <span>We are the </span>
+            <span>We are the</span>
             <br class="hidden lg:block"></br>
             🌯 PolitoBurrito
           </h1>
