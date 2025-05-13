@@ -13,11 +13,6 @@ export default function Main() {
           </h1>
           <br></br>
           <p class="mx-auto  text-xl font-normal leading-relaxed text-gray-600 dark:text-gray-300 lg:w-2/3">
-            nine4 is a free to use template website for websites made with{" "}
-            <a href="https://nextjs.org/" className="underline">
-              Next.js
-            </a>{" "}
-            and styled with Tailwind CSS
             We are a documentation site for government contracting at all levels of government: Federal, State, and Local. We are also a{" "}
             <a href="https://billboards.politoburrito.com" className="underline">
               political billboards
