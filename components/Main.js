@@ -18,6 +18,10 @@ export default function Main() {
               Next.js
             </a>{" "}
             and styled with Tailwind CSS
+            We are a documentation site for government contracting at all levels of government: Federal, State, and Local. We are also a{" "}
+            <a href="https://billboards.politoburrito.com" className="underline">
+              political billboards
+            </a>{" "} fundraising platform.
           </p>
         </div>
       </div>
